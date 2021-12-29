@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://truejyro.com">
-  <img width="425" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jyro77&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="425" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyro77&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="456.92" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jyro77&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="331.58" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyro77&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
  <div style="display: inline_block"><br>
