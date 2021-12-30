@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Jhonny Rodríguez!
 
 <div align="center">
-  <a href="https://truejyro.com">
+  <a target="_blank" href="https://truejyro.com">
   <img src="https://github-readme-stats.vercel.app/api?username=Jyro77&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyro77&langs_count=7&theme=github_dark"/>
 </div>
